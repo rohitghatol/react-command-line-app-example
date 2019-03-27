@@ -1,2 +1,8 @@
-# react-command-line-app-example
-React Command Line Example using blessed and react-blessed. Example includes how to use this with React Router as well.
+# Building Command Line App with React and Blessed
+
+React Command Line Example using blessed and react-blessed. 
+
+Example also includes 
+
+* Use of blessed-contrib Grid component for Layout
+* Use of React Router for Routing
